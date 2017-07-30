@@ -1,0 +1,381 @@
+dummy1,type1,key1,value1,type2,key2,value2
+x,test-type,keyname1,one,test-type,key name with spaces,two
+x,test-type,keyname1,one,test-type,keyname3,value with spaces
+x,test-type,keyname1,one,type with spaces,key name with spaces,value with spaces
+x,test-type,keyname1,one,test-type,emptyvalue,<empty>
+x,test-type,keyname1,one,test-type,nullvalue,
+x,test-type,keyname1,one,test-type,,nullkey
+x,test-type,keyname1,one,test-type,<empty>,emptykey
+x,test-type,keyname1,one,,nulltype,nulltype
+x,test-type,keyname1,one,<empty>,emptytype,emptytype
+x,test-type,keyname1,one,,,
+x,test-type,keyname1,one,<empty>,<empty>,<empty>
+x,test-type,keyname1,one,<empty>,<empty>,emptykeyandtype
+x,test-type,keyname1,one,,,null type and key
+x,test-type,keyname1,one,<empty>,,empty type null key
+x,test-type,keyname1,one,,<empty>,null type empty key
+x,test-type,keyname1,one,null key and value,,
+x,test-type,keyname1,one,null key empty value,,<empty>
+x,test-type,keyname1,one,empty key null value,<empty>,
+x,test-type,keyname1,one,empty key and value,<empty>,<empty>
+x,test-type,key name with spaces,two,test-type,keyname1,one
+x,test-type,key name with spaces,two,test-type,keyname3,value with spaces
+x,test-type,key name with spaces,two,type with spaces,key name with spaces,value with spaces
+x,test-type,key name with spaces,two,test-type,emptyvalue,<empty>
+x,test-type,key name with spaces,two,test-type,nullvalue,
+x,test-type,key name with spaces,two,test-type,,nullkey
+x,test-type,key name with spaces,two,test-type,<empty>,emptykey
+x,test-type,key name with spaces,two,,nulltype,nulltype
+x,test-type,key name with spaces,two,<empty>,emptytype,emptytype
+x,test-type,key name with spaces,two,,,
+x,test-type,key name with spaces,two,<empty>,<empty>,<empty>
+x,test-type,key name with spaces,two,<empty>,<empty>,emptykeyandtype
+x,test-type,key name with spaces,two,,,null type and key
+x,test-type,key name with spaces,two,<empty>,,empty type null key
+x,test-type,key name with spaces,two,,<empty>,null type empty key
+x,test-type,key name with spaces,two,null key and value,,
+x,test-type,key name with spaces,two,null key empty value,,<empty>
+x,test-type,key name with spaces,two,empty key null value,<empty>,
+x,test-type,key name with spaces,two,empty key and value,<empty>,<empty>
+x,test-type,keyname3,value with spaces,test-type,keyname1,one
+x,test-type,keyname3,value with spaces,test-type,key name with spaces,two
+x,test-type,keyname3,value with spaces,type with spaces,key name with spaces,value with spaces
+x,test-type,keyname3,value with spaces,test-type,emptyvalue,<empty>
+x,test-type,keyname3,value with spaces,test-type,nullvalue,
+x,test-type,keyname3,value with spaces,test-type,,nullkey
+x,test-type,keyname3,value with spaces,test-type,<empty>,emptykey
+x,test-type,keyname3,value with spaces,,nulltype,nulltype
+x,test-type,keyname3,value with spaces,<empty>,emptytype,emptytype
+x,test-type,keyname3,value with spaces,,,
+x,test-type,keyname3,value with spaces,<empty>,<empty>,<empty>
+x,test-type,keyname3,value with spaces,<empty>,<empty>,emptykeyandtype
+x,test-type,keyname3,value with spaces,,,null type and key
+x,test-type,keyname3,value with spaces,<empty>,,empty type null key
+x,test-type,keyname3,value with spaces,,<empty>,null type empty key
+x,test-type,keyname3,value with spaces,null key and value,,
+x,test-type,keyname3,value with spaces,null key empty value,,<empty>
+x,test-type,keyname3,value with spaces,empty key null value,<empty>,
+x,test-type,keyname3,value with spaces,empty key and value,<empty>,<empty>
+x,type with spaces,key name with spaces,value with spaces,test-type,keyname1,one
+x,type with spaces,key name with spaces,value with spaces,test-type,key name with spaces,two
+x,type with spaces,key name with spaces,value with spaces,test-type,keyname3,value with spaces
+x,type with spaces,key name with spaces,value with spaces,test-type,emptyvalue,<empty>
+x,type with spaces,key name with spaces,value with spaces,test-type,nullvalue,
+x,type with spaces,key name with spaces,value with spaces,test-type,,nullkey
+x,type with spaces,key name with spaces,value with spaces,test-type,<empty>,emptykey
+x,type with spaces,key name with spaces,value with spaces,,nulltype,nulltype
+x,type with spaces,key name with spaces,value with spaces,<empty>,emptytype,emptytype
+x,type with spaces,key name with spaces,value with spaces,,,
+x,type with spaces,key name with spaces,value with spaces,<empty>,<empty>,<empty>
+x,type with spaces,key name with spaces,value with spaces,<empty>,<empty>,emptykeyandtype
+x,type with spaces,key name with spaces,value with spaces,,,null type and key
+x,type with spaces,key name with spaces,value with spaces,<empty>,,empty type null key
+x,type with spaces,key name with spaces,value with spaces,,<empty>,null type empty key
+x,type with spaces,key name with spaces,value with spaces,null key and value,,
+x,type with spaces,key name with spaces,value with spaces,null key empty value,,<empty>
+x,type with spaces,key name with spaces,value with spaces,empty key null value,<empty>,
+x,type with spaces,key name with spaces,value with spaces,empty key and value,<empty>,<empty>
+x,test-type,emptyvalue,<empty>,test-type,keyname1,one
+x,test-type,emptyvalue,<empty>,test-type,key name with spaces,two
+x,test-type,emptyvalue,<empty>,test-type,keyname3,value with spaces
+x,test-type,emptyvalue,<empty>,type with spaces,key name with spaces,value with spaces
+x,test-type,emptyvalue,<empty>,test-type,nullvalue,
+x,test-type,emptyvalue,<empty>,test-type,,nullkey
+x,test-type,emptyvalue,<empty>,test-type,<empty>,emptykey
+x,test-type,emptyvalue,<empty>,,nulltype,nulltype
+x,test-type,emptyvalue,<empty>,<empty>,emptytype,emptytype
+x,test-type,emptyvalue,<empty>,,,
+x,test-type,emptyvalue,<empty>,<empty>,<empty>,<empty>
+x,test-type,emptyvalue,<empty>,<empty>,<empty>,emptykeyandtype
+x,test-type,emptyvalue,<empty>,,,null type and key
+x,test-type,emptyvalue,<empty>,<empty>,,empty type null key
+x,test-type,emptyvalue,<empty>,,<empty>,null type empty key
+x,test-type,emptyvalue,<empty>,null key and value,,
+x,test-type,emptyvalue,<empty>,null key empty value,,<empty>
+x,test-type,emptyvalue,<empty>,empty key null value,<empty>,
+x,test-type,emptyvalue,<empty>,empty key and value,<empty>,<empty>
+x,test-type,nullvalue,,test-type,keyname1,one
+x,test-type,nullvalue,,test-type,key name with spaces,two
+x,test-type,nullvalue,,test-type,keyname3,value with spaces
+x,test-type,nullvalue,,type with spaces,key name with spaces,value with spaces
+x,test-type,nullvalue,,test-type,emptyvalue,<empty>
+x,test-type,nullvalue,,test-type,,nullkey
+x,test-type,nullvalue,,test-type,<empty>,emptykey
+x,test-type,nullvalue,,,nulltype,nulltype
+x,test-type,nullvalue,,<empty>,emptytype,emptytype
+x,test-type,nullvalue,,,,
+x,test-type,nullvalue,,<empty>,<empty>,<empty>
+x,test-type,nullvalue,,<empty>,<empty>,emptykeyandtype
+x,test-type,nullvalue,,,,null type and key
+x,test-type,nullvalue,,<empty>,,empty type null key
+x,test-type,nullvalue,,,<empty>,null type empty key
+x,test-type,nullvalue,,null key and value,,
+x,test-type,nullvalue,,null key empty value,,<empty>
+x,test-type,nullvalue,,empty key null value,<empty>,
+x,test-type,nullvalue,,empty key and value,<empty>,<empty>
+x,test-type,,nullkey,test-type,keyname1,one
+x,test-type,,nullkey,test-type,key name with spaces,two
+x,test-type,,nullkey,test-type,keyname3,value with spaces
+x,test-type,,nullkey,type with spaces,key name with spaces,value with spaces
+x,test-type,,nullkey,test-type,emptyvalue,<empty>
+x,test-type,,nullkey,test-type,nullvalue,
+x,test-type,,nullkey,test-type,<empty>,emptykey
+x,test-type,,nullkey,,nulltype,nulltype
+x,test-type,,nullkey,<empty>,emptytype,emptytype
+x,test-type,,nullkey,,,
+x,test-type,,nullkey,<empty>,<empty>,<empty>
+x,test-type,,nullkey,<empty>,<empty>,emptykeyandtype
+x,test-type,,nullkey,,,null type and key
+x,test-type,,nullkey,<empty>,,empty type null key
+x,test-type,,nullkey,,<empty>,null type empty key
+x,test-type,,nullkey,null key and value,,
+x,test-type,,nullkey,null key empty value,,<empty>
+x,test-type,,nullkey,empty key null value,<empty>,
+x,test-type,,nullkey,empty key and value,<empty>,<empty>
+x,test-type,<empty>,emptykey,test-type,keyname1,one
+x,test-type,<empty>,emptykey,test-type,key name with spaces,two
+x,test-type,<empty>,emptykey,test-type,keyname3,value with spaces
+x,test-type,<empty>,emptykey,type with spaces,key name with spaces,value with spaces
+x,test-type,<empty>,emptykey,test-type,emptyvalue,<empty>
+x,test-type,<empty>,emptykey,test-type,nullvalue,
+x,test-type,<empty>,emptykey,test-type,,nullkey
+x,test-type,<empty>,emptykey,,nulltype,nulltype
+x,test-type,<empty>,emptykey,<empty>,emptytype,emptytype
+x,test-type,<empty>,emptykey,,,
+x,test-type,<empty>,emptykey,<empty>,<empty>,<empty>
+x,test-type,<empty>,emptykey,<empty>,<empty>,emptykeyandtype
+x,test-type,<empty>,emptykey,,,null type and key
+x,test-type,<empty>,emptykey,<empty>,,empty type null key
+x,test-type,<empty>,emptykey,,<empty>,null type empty key
+x,test-type,<empty>,emptykey,null key and value,,
+x,test-type,<empty>,emptykey,null key empty value,,<empty>
+x,test-type,<empty>,emptykey,empty key null value,<empty>,
+x,test-type,<empty>,emptykey,empty key and value,<empty>,<empty>
+x,,nulltype,nulltype,test-type,keyname1,one
+x,,nulltype,nulltype,test-type,key name with spaces,two
+x,,nulltype,nulltype,test-type,keyname3,value with spaces
+x,,nulltype,nulltype,type with spaces,key name with spaces,value with spaces
+x,,nulltype,nulltype,test-type,emptyvalue,<empty>
+x,,nulltype,nulltype,test-type,nullvalue,
+x,,nulltype,nulltype,test-type,,nullkey
+x,,nulltype,nulltype,test-type,<empty>,emptykey
+x,,nulltype,nulltype,<empty>,emptytype,emptytype
+x,,nulltype,nulltype,,,
+x,,nulltype,nulltype,<empty>,<empty>,<empty>
+x,,nulltype,nulltype,<empty>,<empty>,emptykeyandtype
+x,,nulltype,nulltype,,,null type and key
+x,,nulltype,nulltype,<empty>,,empty type null key
+x,,nulltype,nulltype,,<empty>,null type empty key
+x,,nulltype,nulltype,null key and value,,
+x,,nulltype,nulltype,null key empty value,,<empty>
+x,,nulltype,nulltype,empty key null value,<empty>,
+x,,nulltype,nulltype,empty key and value,<empty>,<empty>
+x,<empty>,emptytype,emptytype,test-type,keyname1,one
+x,<empty>,emptytype,emptytype,test-type,key name with spaces,two
+x,<empty>,emptytype,emptytype,test-type,keyname3,value with spaces
+x,<empty>,emptytype,emptytype,type with spaces,key name with spaces,value with spaces
+x,<empty>,emptytype,emptytype,test-type,emptyvalue,<empty>
+x,<empty>,emptytype,emptytype,test-type,nullvalue,
+x,<empty>,emptytype,emptytype,test-type,,nullkey
+x,<empty>,emptytype,emptytype,test-type,<empty>,emptykey
+x,<empty>,emptytype,emptytype,,nulltype,nulltype
+x,<empty>,emptytype,emptytype,,,
+x,<empty>,emptytype,emptytype,<empty>,<empty>,<empty>
+x,<empty>,emptytype,emptytype,<empty>,<empty>,emptykeyandtype
+x,<empty>,emptytype,emptytype,,,null type and key
+x,<empty>,emptytype,emptytype,<empty>,,empty type null key
+x,<empty>,emptytype,emptytype,,<empty>,null type empty key
+x,<empty>,emptytype,emptytype,null key and value,,
+x,<empty>,emptytype,emptytype,null key empty value,,<empty>
+x,<empty>,emptytype,emptytype,empty key null value,<empty>,
+x,<empty>,emptytype,emptytype,empty key and value,<empty>,<empty>
+x,,,,test-type,keyname1,one
+x,,,,test-type,key name with spaces,two
+x,,,,test-type,keyname3,value with spaces
+x,,,,type with spaces,key name with spaces,value with spaces
+x,,,,test-type,emptyvalue,<empty>
+x,,,,test-type,nullvalue,
+x,,,,test-type,,nullkey
+x,,,,test-type,<empty>,emptykey
+x,,,,,nulltype,nulltype
+x,,,,<empty>,emptytype,emptytype
+x,,,,<empty>,<empty>,<empty>
+x,,,,<empty>,<empty>,emptykeyandtype
+x,,,,,,null type and key
+x,,,,<empty>,,empty type null key
+x,,,,,<empty>,null type empty key
+x,,,,null key and value,,
+x,,,,null key empty value,,<empty>
+x,,,,empty key null value,<empty>,
+x,,,,empty key and value,<empty>,<empty>
+x,<empty>,<empty>,<empty>,test-type,keyname1,one
+x,<empty>,<empty>,<empty>,test-type,key name with spaces,two
+x,<empty>,<empty>,<empty>,test-type,keyname3,value with spaces
+x,<empty>,<empty>,<empty>,type with spaces,key name with spaces,value with spaces
+x,<empty>,<empty>,<empty>,test-type,emptyvalue,<empty>
+x,<empty>,<empty>,<empty>,test-type,nullvalue,
+x,<empty>,<empty>,<empty>,test-type,,nullkey
+x,<empty>,<empty>,<empty>,test-type,<empty>,emptykey
+x,<empty>,<empty>,<empty>,,nulltype,nulltype
+x,<empty>,<empty>,<empty>,<empty>,emptytype,emptytype
+x,<empty>,<empty>,<empty>,,,
+x,<empty>,<empty>,<empty>,<empty>,<empty>,emptykeyandtype
+x,<empty>,<empty>,<empty>,,,null type and key
+x,<empty>,<empty>,<empty>,<empty>,,empty type null key
+x,<empty>,<empty>,<empty>,,<empty>,null type empty key
+x,<empty>,<empty>,<empty>,null key and value,,
+x,<empty>,<empty>,<empty>,null key empty value,,<empty>
+x,<empty>,<empty>,<empty>,empty key null value,<empty>,
+x,<empty>,<empty>,<empty>,empty key and value,<empty>,<empty>
+x,<empty>,<empty>,emptykeyandtype,test-type,keyname1,one
+x,<empty>,<empty>,emptykeyandtype,test-type,key name with spaces,two
+x,<empty>,<empty>,emptykeyandtype,test-type,keyname3,value with spaces
+x,<empty>,<empty>,emptykeyandtype,type with spaces,key name with spaces,value with spaces
+x,<empty>,<empty>,emptykeyandtype,test-type,emptyvalue,<empty>
+x,<empty>,<empty>,emptykeyandtype,test-type,nullvalue,
+x,<empty>,<empty>,emptykeyandtype,test-type,,nullkey
+x,<empty>,<empty>,emptykeyandtype,test-type,<empty>,emptykey
+x,<empty>,<empty>,emptykeyandtype,,nulltype,nulltype
+x,<empty>,<empty>,emptykeyandtype,<empty>,emptytype,emptytype
+x,<empty>,<empty>,emptykeyandtype,,,
+x,<empty>,<empty>,emptykeyandtype,<empty>,<empty>,<empty>
+x,<empty>,<empty>,emptykeyandtype,,,null type and key
+x,<empty>,<empty>,emptykeyandtype,<empty>,,empty type null key
+x,<empty>,<empty>,emptykeyandtype,,<empty>,null type empty key
+x,<empty>,<empty>,emptykeyandtype,null key and value,,
+x,<empty>,<empty>,emptykeyandtype,null key empty value,,<empty>
+x,<empty>,<empty>,emptykeyandtype,empty key null value,<empty>,
+x,<empty>,<empty>,emptykeyandtype,empty key and value,<empty>,<empty>
+x,,,null type and key,test-type,keyname1,one
+x,,,null type and key,test-type,key name with spaces,two
+x,,,null type and key,test-type,keyname3,value with spaces
+x,,,null type and key,type with spaces,key name with spaces,value with spaces
+x,,,null type and key,test-type,emptyvalue,<empty>
+x,,,null type and key,test-type,nullvalue,
+x,,,null type and key,test-type,,nullkey
+x,,,null type and key,test-type,<empty>,emptykey
+x,,,null type and key,,nulltype,nulltype
+x,,,null type and key,<empty>,emptytype,emptytype
+x,,,null type and key,,,
+x,,,null type and key,<empty>,<empty>,<empty>
+x,,,null type and key,<empty>,<empty>,emptykeyandtype
+x,,,null type and key,<empty>,,empty type null key
+x,,,null type and key,,<empty>,null type empty key
+x,,,null type and key,null key and value,,
+x,,,null type and key,null key empty value,,<empty>
+x,,,null type and key,empty key null value,<empty>,
+x,,,null type and key,empty key and value,<empty>,<empty>
+x,<empty>,,empty type null key,test-type,keyname1,one
+x,<empty>,,empty type null key,test-type,key name with spaces,two
+x,<empty>,,empty type null key,test-type,keyname3,value with spaces
+x,<empty>,,empty type null key,type with spaces,key name with spaces,value with spaces
+x,<empty>,,empty type null key,test-type,emptyvalue,<empty>
+x,<empty>,,empty type null key,test-type,nullvalue,
+x,<empty>,,empty type null key,test-type,,nullkey
+x,<empty>,,empty type null key,test-type,<empty>,emptykey
+x,<empty>,,empty type null key,,nulltype,nulltype
+x,<empty>,,empty type null key,<empty>,emptytype,emptytype
+x,<empty>,,empty type null key,,,
+x,<empty>,,empty type null key,<empty>,<empty>,<empty>
+x,<empty>,,empty type null key,<empty>,<empty>,emptykeyandtype
+x,<empty>,,empty type null key,,,null type and key
+x,<empty>,,empty type null key,,<empty>,null type empty key
+x,<empty>,,empty type null key,null key and value,,
+x,<empty>,,empty type null key,null key empty value,,<empty>
+x,<empty>,,empty type null key,empty key null value,<empty>,
+x,<empty>,,empty type null key,empty key and value,<empty>,<empty>
+x,,<empty>,null type empty key,test-type,keyname1,one
+x,,<empty>,null type empty key,test-type,key name with spaces,two
+x,,<empty>,null type empty key,test-type,keyname3,value with spaces
+x,,<empty>,null type empty key,type with spaces,key name with spaces,value with spaces
+x,,<empty>,null type empty key,test-type,emptyvalue,<empty>
+x,,<empty>,null type empty key,test-type,nullvalue,
+x,,<empty>,null type empty key,test-type,,nullkey
+x,,<empty>,null type empty key,test-type,<empty>,emptykey
+x,,<empty>,null type empty key,,nulltype,nulltype
+x,,<empty>,null type empty key,<empty>,emptytype,emptytype
+x,,<empty>,null type empty key,,,
+x,,<empty>,null type empty key,<empty>,<empty>,<empty>
+x,,<empty>,null type empty key,<empty>,<empty>,emptykeyandtype
+x,,<empty>,null type empty key,,,null type and key
+x,,<empty>,null type empty key,<empty>,,empty type null key
+x,,<empty>,null type empty key,null key and value,,
+x,,<empty>,null type empty key,null key empty value,,<empty>
+x,,<empty>,null type empty key,empty key null value,<empty>,
+x,,<empty>,null type empty key,empty key and value,<empty>,<empty>
+x,null key and value,,,test-type,keyname1,one
+x,null key and value,,,test-type,key name with spaces,two
+x,null key and value,,,test-type,keyname3,value with spaces
+x,null key and value,,,type with spaces,key name with spaces,value with spaces
+x,null key and value,,,test-type,emptyvalue,<empty>
+x,null key and value,,,test-type,nullvalue,
+x,null key and value,,,test-type,,nullkey
+x,null key and value,,,test-type,<empty>,emptykey
+x,null key and value,,,,nulltype,nulltype
+x,null key and value,,,<empty>,emptytype,emptytype
+x,null key and value,,,,,
+x,null key and value,,,<empty>,<empty>,<empty>
+x,null key and value,,,<empty>,<empty>,emptykeyandtype
+x,null key and value,,,,,null type and key
+x,null key and value,,,<empty>,,empty type null key
+x,null key and value,,,,<empty>,null type empty key
+x,null key and value,,,null key empty value,,<empty>
+x,null key and value,,,empty key null value,<empty>,
+x,null key and value,,,empty key and value,<empty>,<empty>
+x,null key empty value,,<empty>,test-type,keyname1,one
+x,null key empty value,,<empty>,test-type,key name with spaces,two
+x,null key empty value,,<empty>,test-type,keyname3,value with spaces
+x,null key empty value,,<empty>,type with spaces,key name with spaces,value with spaces
+x,null key empty value,,<empty>,test-type,emptyvalue,<empty>
+x,null key empty value,,<empty>,test-type,nullvalue,
+x,null key empty value,,<empty>,test-type,,nullkey
+x,null key empty value,,<empty>,test-type,<empty>,emptykey
+x,null key empty value,,<empty>,,nulltype,nulltype
+x,null key empty value,,<empty>,<empty>,emptytype,emptytype
+x,null key empty value,,<empty>,,,
+x,null key empty value,,<empty>,<empty>,<empty>,<empty>
+x,null key empty value,,<empty>,<empty>,<empty>,emptykeyandtype
+x,null key empty value,,<empty>,,,null type and key
+x,null key empty value,,<empty>,<empty>,,empty type null key
+x,null key empty value,,<empty>,,<empty>,null type empty key
+x,null key empty value,,<empty>,null key and value,,
+x,null key empty value,,<empty>,empty key null value,<empty>,
+x,null key empty value,,<empty>,empty key and value,<empty>,<empty>
+x,empty key null value,<empty>,,test-type,keyname1,one
+x,empty key null value,<empty>,,test-type,key name with spaces,two
+x,empty key null value,<empty>,,test-type,keyname3,value with spaces
+x,empty key null value,<empty>,,type with spaces,key name with spaces,value with spaces
+x,empty key null value,<empty>,,test-type,emptyvalue,<empty>
+x,empty key null value,<empty>,,test-type,nullvalue,
+x,empty key null value,<empty>,,test-type,,nullkey
+x,empty key null value,<empty>,,test-type,<empty>,emptykey
+x,empty key null value,<empty>,,,nulltype,nulltype
+x,empty key null value,<empty>,,<empty>,emptytype,emptytype
+x,empty key null value,<empty>,,,,
+x,empty key null value,<empty>,,<empty>,<empty>,<empty>
+x,empty key null value,<empty>,,<empty>,<empty>,emptykeyandtype
+x,empty key null value,<empty>,,,,null type and key
+x,empty key null value,<empty>,,<empty>,,empty type null key
+x,empty key null value,<empty>,,,<empty>,null type empty key
+x,empty key null value,<empty>,,null key and value,,
+x,empty key null value,<empty>,,null key empty value,,<empty>
+x,empty key null value,<empty>,,empty key and value,<empty>,<empty>
+x,empty key and value,<empty>,<empty>,test-type,keyname1,one
+x,empty key and value,<empty>,<empty>,test-type,key name with spaces,two
+x,empty key and value,<empty>,<empty>,test-type,keyname3,value with spaces
+x,empty key and value,<empty>,<empty>,type with spaces,key name with spaces,value with spaces
+x,empty key and value,<empty>,<empty>,test-type,emptyvalue,<empty>
+x,empty key and value,<empty>,<empty>,test-type,nullvalue,
+x,empty key and value,<empty>,<empty>,test-type,,nullkey
+x,empty key and value,<empty>,<empty>,test-type,<empty>,emptykey
+x,empty key and value,<empty>,<empty>,,nulltype,nulltype
+x,empty key and value,<empty>,<empty>,<empty>,emptytype,emptytype
+x,empty key and value,<empty>,<empty>,,,
+x,empty key and value,<empty>,<empty>,<empty>,<empty>,<empty>
+x,empty key and value,<empty>,<empty>,<empty>,<empty>,emptykeyandtype
+x,empty key and value,<empty>,<empty>,,,null type and key
+x,empty key and value,<empty>,<empty>,<empty>,,empty type null key
+x,empty key and value,<empty>,<empty>,,<empty>,null type empty key
+x,empty key and value,<empty>,<empty>,null key and value,,
+x,empty key and value,<empty>,<empty>,null key empty value,,<empty>
+x,empty key and value,<empty>,<empty>,empty key null value,<empty>,

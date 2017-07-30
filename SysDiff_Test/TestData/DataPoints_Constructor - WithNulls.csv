@@ -1,0 +1,39 @@
+dummy,type,key,value
+x,test-type,keyname1,one
+x,test-type,key name with spaces,two
+x,test-type,keyname3,value with spaces
+x,type with spaces,key name with spaces,value with spaces
+x,test-type,emptyvalue,<empty>
+x,test-type,nullvalue,
+x,test-type,,nullkey
+x,test-type,<empty>,emptykey
+x,,nulltype,nulltype
+x,<empty>,emptytype,emptytype
+x,,,
+x,<empty>,<empty>,<empty>
+x,<empty>,<empty>,emptykeyandtype
+x,,,null type and key
+x,<empty>,,empty type null key
+x,,<empty>,null type empty key
+x,null key and value,,
+x,null key empty value,,<empty>
+x,empty key null value,<empty>,
+x,empty key and value,<empty>,<empty>
+x,,null type and value,
+x,,null type empty value,<empty>
+x,<empty>,empty type null value,
+x,<empty>,empty type and value,<empty>
+x,   ,    ,   
+x,  ,        ,            
+x,     ,whitespace type,whitespace type
+x,       ,whitespace type,whitespace type
+x,whitespace key,   ,whitespace key
+x,whitespace key,      ,whitespace key
+x,whitespace value,whitespace value,   
+x,whitespace value,whitespace value,      
+x,whitespace key and value,    ,      
+x,whitespace key and value,      ,          
+x,   ,    ,whitespace type and key
+x,     ,      ,whitespace type and key
+x,  ,whitespace type and value,   
+x,    ,whitespace type and value,     

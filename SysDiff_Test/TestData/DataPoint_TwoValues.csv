@@ -1,0 +1,97 @@
+dummy,type,key,value0,value1
+x,test-type,keyname1,one,two
+x,test-type,keyname1,one,value with spaces
+x,test-type,keyname1,one,value with spaces
+x,test-type,keyname1,one,<empty>
+x,test-type,keyname1,one,emptykey
+x,test-type,keyname1,one,emptytype
+x,test-type,keyname1,one,<empty>
+x,test-type,keyname1,one,emptykeyandtype
+x,test-type,keyname1,one,<empty>
+x,test-type,keyname1,one,<empty>
+x,test-type,key name with spaces,two,one
+x,test-type,key name with spaces,two,value with spaces
+x,test-type,key name with spaces,two,value with spaces
+x,test-type,key name with spaces,two,<empty>
+x,test-type,key name with spaces,two,emptykey
+x,test-type,key name with spaces,two,emptytype
+x,test-type,key name with spaces,two,<empty>
+x,test-type,key name with spaces,two,emptykeyandtype
+x,test-type,key name with spaces,two,<empty>
+x,test-type,key name with spaces,two,<empty>
+x,test-type,keyname3,value with spaces,one
+x,test-type,keyname3,value with spaces,two
+x,test-type,keyname3,value with spaces,<empty>
+x,test-type,keyname3,value with spaces,emptykey
+x,test-type,keyname3,value with spaces,emptytype
+x,test-type,keyname3,value with spaces,<empty>
+x,test-type,keyname3,value with spaces,emptykeyandtype
+x,test-type,keyname3,value with spaces,<empty>
+x,test-type,keyname3,value with spaces,<empty>
+x,type with spaces,key name with spaces,value with spaces,one
+x,type with spaces,key name with spaces,value with spaces,two
+x,type with spaces,key name with spaces,value with spaces,<empty>
+x,type with spaces,key name with spaces,value with spaces,emptykey
+x,type with spaces,key name with spaces,value with spaces,emptytype
+x,type with spaces,key name with spaces,value with spaces,<empty>
+x,type with spaces,key name with spaces,value with spaces,emptykeyandtype
+x,type with spaces,key name with spaces,value with spaces,<empty>
+x,type with spaces,key name with spaces,value with spaces,<empty>
+x,test-type,emptyvalue,<empty>,one
+x,test-type,emptyvalue,<empty>,two
+x,test-type,emptyvalue,<empty>,value with spaces
+x,test-type,emptyvalue,<empty>,value with spaces
+x,test-type,emptyvalue,<empty>,emptykey
+x,test-type,emptyvalue,<empty>,emptytype
+x,test-type,emptyvalue,<empty>,emptykeyandtype
+x,test-type,<empty>,emptykey,one
+x,test-type,<empty>,emptykey,two
+x,test-type,<empty>,emptykey,value with spaces
+x,test-type,<empty>,emptykey,value with spaces
+x,test-type,<empty>,emptykey,<empty>
+x,test-type,<empty>,emptykey,emptytype
+x,test-type,<empty>,emptykey,<empty>
+x,test-type,<empty>,emptykey,emptykeyandtype
+x,test-type,<empty>,emptykey,<empty>
+x,test-type,<empty>,emptykey,<empty>
+x,<empty>,emptytype,emptytype,one
+x,<empty>,emptytype,emptytype,two
+x,<empty>,emptytype,emptytype,value with spaces
+x,<empty>,emptytype,emptytype,value with spaces
+x,<empty>,emptytype,emptytype,<empty>
+x,<empty>,emptytype,emptytype,emptykey
+x,<empty>,emptytype,emptytype,<empty>
+x,<empty>,emptytype,emptytype,emptykeyandtype
+x,<empty>,emptytype,emptytype,<empty>
+x,<empty>,emptytype,emptytype,<empty>
+x,<empty>,<empty>,<empty>,one
+x,<empty>,<empty>,<empty>,two
+x,<empty>,<empty>,<empty>,value with spaces
+x,<empty>,<empty>,<empty>,value with spaces
+x,<empty>,<empty>,<empty>,emptykey
+x,<empty>,<empty>,<empty>,emptytype
+x,<empty>,<empty>,<empty>,emptykeyandtype
+x,<empty>,<empty>,emptykeyandtype,one
+x,<empty>,<empty>,emptykeyandtype,two
+x,<empty>,<empty>,emptykeyandtype,value with spaces
+x,<empty>,<empty>,emptykeyandtype,value with spaces
+x,<empty>,<empty>,emptykeyandtype,<empty>
+x,<empty>,<empty>,emptykeyandtype,emptykey
+x,<empty>,<empty>,emptykeyandtype,emptytype
+x,<empty>,<empty>,emptykeyandtype,<empty>
+x,<empty>,<empty>,emptykeyandtype,<empty>
+x,<empty>,<empty>,emptykeyandtype,<empty>
+x,empty key and value,<empty>,<empty>,one
+x,empty key and value,<empty>,<empty>,two
+x,empty key and value,<empty>,<empty>,value with spaces
+x,empty key and value,<empty>,<empty>,value with spaces
+x,empty key and value,<empty>,<empty>,emptykey
+x,empty key and value,<empty>,<empty>,emptytype
+x,empty key and value,<empty>,<empty>,emptykeyandtype
+x,<empty>,empty type and value,<empty>,one
+x,<empty>,empty type and value,<empty>,two
+x,<empty>,empty type and value,<empty>,value with spaces
+x,<empty>,empty type and value,<empty>,value with spaces
+x,<empty>,empty type and value,<empty>,emptykey
+x,<empty>,empty type and value,<empty>,emptytype
+x,<empty>,empty type and value,<empty>,emptykeyandtype

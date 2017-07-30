@@ -1,0 +1,14 @@
+dummy,type,key,value0
+x,test-type,,nullkey
+x,test-type,nullvalue,
+x,,nulltype,nulltype
+x,,,
+x,,,null type and key
+x,<empty>,,empty type null key
+x,,<empty>,null type empty key
+x,null key and value,,
+x,null key empty value,,<empty>
+x,empty key null value,<empty>,
+x,,null type and value,
+x,,null type empty value,<empty>
+x,<empty>,empty type null value,
