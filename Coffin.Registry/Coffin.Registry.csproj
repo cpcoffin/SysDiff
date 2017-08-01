@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RegFileRegistryProvider\RegFile.cs" />
     <Compile Include="RegistryDwordInfo.cs" />
-    <Compile Include="RegistryFile.cs" />
+    <Compile Include="RegFileRegistryProvider\RegFileRegistryProvider.cs" />
     <Compile Include="RegistryKeyInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistryProvider.cs" />

@@ -52,6 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="RegFile_Test.cs" />
     <Compile Include="RegistryDwordInfo_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistryFile_Test.cs" />
